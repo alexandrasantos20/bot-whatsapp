@@ -1,0 +1,4 @@
+@echo off
+cd /d C:\Users\Andreia\bot-whatsapp\bot-whatsapp
+node index.js
+pause
